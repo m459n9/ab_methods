@@ -1,5 +1,6 @@
 # АБ ресерчи
 > Bootstrap
-> T-test, MW
+> Классические тесты
 > Сокращение дисперсии
 > Causal Inference
+> ML
